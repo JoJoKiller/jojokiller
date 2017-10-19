@@ -1,0 +1,2 @@
+# jojokiller
+Study for myself
